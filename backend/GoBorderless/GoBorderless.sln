@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoBorderless", "GoBorderless\GoBorderless.csproj", "{75343C5D-B0C5-4289-B20C-28B95DA0027C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoBorderless.Tests", "GoBorderless.Tests\GoBorderless.Tests.csproj", "{47477B90-2EA8-4ACB-B1E1-63C0C353BBF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75343C5D-B0C5-4289-B20C-28B95DA0027C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75343C5D-B0C5-4289-B20C-28B95DA0027C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75343C5D-B0C5-4289-B20C-28B95DA0027C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75343C5D-B0C5-4289-B20C-28B95DA0027C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47477B90-2EA8-4ACB-B1E1-63C0C353BBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47477B90-2EA8-4ACB-B1E1-63C0C353BBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47477B90-2EA8-4ACB-B1E1-63C0C353BBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47477B90-2EA8-4ACB-B1E1-63C0C353BBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
